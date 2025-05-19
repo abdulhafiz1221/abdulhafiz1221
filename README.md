@@ -1,6 +1,6 @@
-# Hi... I'm Asilbek <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
+# Hi... I'm Abdulhafiz <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-I am **Suvonov Asilbek** a citizen of the Republic of Uzbekistan. I am currently working as a web developer. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I am **Samatov Abdulhafiz** a citizen of the Republic of Uzbekistan. I am currently working as a web developer. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 ## 👨‍💻 About Me  
 I'm a passionate developer who enjoys creating interactive and user-friendly web interfaces. My interests include:
@@ -11,11 +11,9 @@ I'm a passionate developer who enjoys creating interactive and user-friendly web
 - Open to project collaborations
 - You can reach me through:
 
-**My phone number:** +998 88 703 13 86
+**My phone number:** +998 90 721 60 07
 
 ## <img src="https://prime-sender.com/gifs/contact-us.gif" alt="waving hand gif" aria-hidden="true" height="30"/> Contact Me
-<a href="https://instagram.com/asilc1k_ake" title="Instagram"><img alt="Instagram"  src="https://img.shields.io/badge/Instagram-%23ee2a7b?style=for-the-badge&logo=instagram" height="30" align="center"/></a>
-<a href="https://t.me/Knyaz_blvck" title="Telegram"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-%2324A1DE?style=for-the-badge&logo=telegram&logoColor=%23fff" height="30" align="center"/> </a>
 
 
 
