@@ -1,4 +1,5 @@
-<h1 style="text-align:center;">Hello my Name is Abdulhafiz <br> I`m Front end Development</h1>
+<h1 style="text-align:center;">Hello my Name is Abdulhafizwaving hand gif <br> I`m Front end Development</h1>
+<p>I`m first Junior</p>
 <br>
 <details open>
     <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
