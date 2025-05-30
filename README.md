@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">Hello my Name is Abdulhafizwaving hand gif <br> I`m Front end Development</h1>
+<h1 style="text-align:center;">Hello my Name is Abdulhafiz <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="100" /> <br> I`m Front end Development</h1>
 <p>I`m first Junior</p>
 <br>
 <details open>
