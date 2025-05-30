@@ -1,3 +1,19 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=70&section=header"/>
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Welcome+to+My+Profile+!;Hello+there+!;My+name+is+Kirill" alt="Typing SVG" /></a>
+</div> 
+<br>
+<details open>
+    <summary align="center"><h2> <img alt="GIF" src="./Image/Developer.gif" width="30px" /> Briefly about me </h2></summary>
+    <p align="center"> I am an intern Data Scientist  <img src="./Image/cat-coder.gif" width="30px"> from Nizhny Novgorod.</p>
+    <img align="right" alt="GIF" src="./Image/ai.gif" width=35% height=45%/>
+    <h3> <img alt="GIF" src="./Image/paper.gif" width="20px" />  A little more detail: </h3>
+    <ul>
+        <li><a><img alt="GIF" src="./Image/books.gif" width="30px"/>&nbsp; I am a college student, studying to be a programmer.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/laptop.gif" width="30px" />&nbsp;  I actively participate in IT events.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/basketball.gif" width="30px" />&nbsp; I am actively involved in sports.</a></li><br>
+        <li><a><img alt="GIF" src="./Image/learninig.gif" width="30px" />&nbsp; I am always learning something new.</a></li><br>
+    </ul>
 # Hi... I'm Abdulhafiz <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
 I am **Samatov Abdulhafiz** a citizen of the Republic of Uzbekistan. I am currently working as a web developer. I enjoy turning complex problems into simple, beautiful and intuitive designs.
